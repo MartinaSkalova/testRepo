@@ -17,4 +17,5 @@ func main() {
 	fmt.Printf("34 + 65 is %d \n", add(34, 65))
 	a, b := swap("hello", "world")
 	fmt.Println(a, b)
+	fmt.Println(a, b)
 }
