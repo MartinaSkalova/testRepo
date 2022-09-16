@@ -5,6 +5,8 @@ import (
 )
 
 func add(x, y int) int {
+	x = y
+	y = x
 	return x + y
 }
 
