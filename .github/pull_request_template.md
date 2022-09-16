@@ -19,7 +19,7 @@
 <!-- Please describe how to test the change here --> 
 
 ### Other Info for Reviewing Engineers
-<!-- Please describe how to test the change here --> 
+<!-- Anything else you'd like others to know here--> 
 
 ### Pull Request Checklist
 
@@ -34,4 +34,4 @@
 ### How does this PR make you feel? Please provide a GIF.
 ![](<insert .gif here>)
 
-<!--sources https://github.com/nytimes/auth-toolbox/blob/9d4c8f0d779787296110c124ea7a58ff93ed8906/.github/PULL_REQUEST_TEMPLATE.md-->
+<!--source https://github.com/nytimes/auth-toolbox/blob/9d4c8f0d779787296110c124ea7a58ff93ed8906/.github/PULL_REQUEST_TEMPLATE.md-->
